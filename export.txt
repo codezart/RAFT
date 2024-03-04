@@ -1,0 +1,22 @@
+Page # 1
+e. Premises: (S—-Q), (P—S), --P. show: -Q.
+
+f. Premises: (TP), (Q—S), (ST), =P. Show: -Q.
+
+g. Premises: R, P, (P — (R — Q)). Show: Q.
+
+h. Premises: ((R->S)-+-Q), -Q. (-(R->S)->V). Show: V.
+
+i. Premises: (P—(Q—R)), (QR). Show: -P.
+
+j. Premises: (-(Q—R)—P), -P. Q. Show: R.
+
+k. Premiscs: P, (P—-R), (P—(R-Q)). Show: Q.
+
+I. Premises: -R, (SR). P, (P—(T-—S)). Show: -T.
+
+m. Premises: P, (P-+Q), (PR), (Q—(R-—S)). Show: S.
+
+n. Premises: (P—(Q-—R)), P, ((Q—R)—-S)), (T-—-V)-—S). Show: -(T-V).
+
+
